@@ -1,0 +1,396 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"just",
+				"justify-content-center"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"jus",
+				"justify-content-center"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"col-",
+				"col-8"
+			],
+			[
+				"overf",
+				"overflow-x"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"P1",
+				"P1Title"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"overl",
+				"overflow-x"
+			],
+			[
+				"text",
+				"text-lowercase"
+			],
+			[
+				"project",
+				"projectTitle"
+			],
+			[
+				"margni",
+				"margin-left"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"img",
+				"img-fluid"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"displa",
+				"display-4"
+			],
+			[
+				"dis",
+				"display-4"
+			],
+			[
+				"pl",
+				"pl-2"
+			],
+			[
+				"pro",
+				"projectTitle"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"X",
+				"X"
+			],
+			[
+				"genXau",
+				"genXauthors"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"mater",
+				"materialColor"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"j",
+				"justify-content-around"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"n",
+				"transparent"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"d",
+				"d-flex"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 89.0,
+		"last_filter": "beaut",
+		"selected_items":
+		[
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colorsu",
+				"Colorsublime: Install Theme"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 131.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/shagia/Documents/development/conversation demo"
+	],
+	"file_history":
+	[
+		"/Users/shagia/Documents/development/YRIPortfolio/js/data.js",
+		"/Users/shagia/Documents/development/XYZ/main.js",
+		"/Users/shagia/Documents/development/YRIPortfolio/js/main.js",
+		"/Users/shagia/Documents/development/YRIPortfolio/css/main.css",
+		"/Users/shagia/Documents/development/YRIPortfolio/index.html",
+		"/Users/shagia/Documents/writing/reviews/nike-gaiter-boot-draft1",
+		"/Users/shagia/Documents/Genki - An Integrated Course in Elementary Japanese [Second Edition] (2011)/GENKI NOTES",
+		"/Users/shagia/Documents/development/qr-nfc-portfolio/redirect.html",
+		"/Users/shagia/Documents/development/qr-nfc-portfolio/js/redirect.js",
+		"/Users/shagia/Documents/development/qr-nfc-portfolio/css/main.css",
+		"/Users/shagia/Documents/development/qr-nfc-portfolio/index.html",
+		"/Users/shagia/Documents/development/XYZ/articledata.js",
+		"/Users/shagia/Documents/development/YRIPortfolio/js/main",
+		"/Users/shagia/Documents/development/YRIPortfolio/Sketch/idea2 notes",
+		"/Users/shagia/Documents/development/XYZ/.gitignore",
+		"/Users/shagia/Documents/development/portfolio-site-2.8-final-chapter-prologue/index.html",
+		"/Users/shagia/Documents/development/portfolio-site-2.8-final-chapter-prologue/index.sublime-workspace",
+		"/Users/shagia/.hyper.js",
+		"/Users/shagia/Documents/development/testindex.html",
+		"/Users/shagia/Documents/development/XYZ/index.html",
+		"/Users/shagia/Documents/development/XYZ/XYZ-TOPIC.css",
+		"/Users/shagia/Documents/development/XYZ/XYZ-TOPIC.html",
+		"/Users/shagia/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/shagia/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/shagia/Documents/development/html noes.html",
+		"/Users/shagia/Library/Preferences/BetterDiscord/themes/Full-Light-Theme/FLTmain.css",
+		"/Users/shagia/.hyper_plugins/local/hyper-oceans16/index.js",
+		"/Users/shagia/Downloads/Master.wav",
+		"/Users/shagia/.textadept/init.lua",
+		"/Users/shagia/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/shagia/Downloads/textadept_9.6.osx/ta",
+		"/Users/shagia/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/shagia/Documents/Rez Infinite 2/SmartSteamEmu.ini",
+		"/Users/shagia/Documents/Rez Infinite 2/SAV/698359035/rez-infinite.dat",
+		"/Users/shagia/Documents/Rez Infinite 2/CFG/rez-infinite.cfg",
+		"/Users/shagia/.config/neofetch/config.conf"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
