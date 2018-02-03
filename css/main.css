@@ -1,3 +1,56 @@
-.activate{
-	background-color: blue;
+html body{
+	background-color:#E5E5EA; 
 }
+
+.activate{
+	background-color: #E5E5EA;
+	border-radius: 50px;
+	color: white;
+}
+
+#entity1{
+
+}
+
+#entity2{
+	
+}
+
+#entity3{
+	
+}
+
+.text-conversation{
+	border: solid #E5E5EA 3px;
+	border-radius: 3px;
+	font-size: 1.2rem;
+	padding: 10px;
+	box-shadow: 2px 2px 7px grey;	
+	background-color: #E5E5EA;
+
+}
+
+.chat-container {
+
+	max-width: 50%; 
+}
+
+.left{
+
+	margin-right: 50px;
+}
+.right{
+
+	margin-left: 50px;
+}
+
+.user{
+	border: solid 2px;
+	border-color: #337AB7;
+}
+
+@media screen and (max-width: 768px) {
+	.chat-container {
+	max-width: 100%; 
+		}
+	}
